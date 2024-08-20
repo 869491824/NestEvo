@@ -1,4 +1,4 @@
-# NestEvo
+
 # NestEvo——高精度增益的多终端模型与全局模型协同演化(自适应)优化与演化加速框架
 
 Organization: Northwestern Polytechnical University
